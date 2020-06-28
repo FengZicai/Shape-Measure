@@ -15,6 +15,6 @@ Then you can run `test.py` to run some examples.
 It works on random point clouds.
   
 
-# aCL
+# Acknowledgement
 This code is based on [latent_3d_points](https://github.com/optas/latent_3d_points)
 
